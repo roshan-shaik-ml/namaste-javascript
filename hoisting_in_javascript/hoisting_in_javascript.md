@@ -18,7 +18,7 @@ Only a proper formal way of function initialisation will store the whole code in
 
 - **Demo of Call Stack in the Browser**
 
-    [image](images/getNameExeContext.jpg)
+    ![image](./images/getNameExeContext.jpg)
 
     Global ExeContext: (anonymous) currently at line 8 that leads to executing the getName()
 
@@ -26,7 +26,7 @@ Only a proper formal way of function initialisation will store the whole code in
 
     Blue arrow indicates where the current control of the program (currenly at Line 5 for getName function operation)
 
-    [image](images/globalExeContext.jpg)
+    ![image](images/globalExeContext.jpg)
 
     Function Execution Context popped out of the stack and the control goes back to the global ExeContext and a following line has started its execution.
 
@@ -239,8 +239,8 @@ The whole concept of JavaScript Hoisting lies in the creation of Execution Conte
 
 - Even before the first line is executed JavaScript has reserved the memory for the variables.
 
-    [image](images/varReservedStorage.jpg)
+    ![image](images/varReservedStorage.jpg)
 
 - For the function, it stores the whole code (actual copy of the function) instead of reserving the memory space as undefined.
 
-    [image](images/functionReservedStorage.jpg)
+    ![image](images/functionReservedStorage.jpg)
