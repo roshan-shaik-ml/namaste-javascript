@@ -18,7 +18,7 @@ Only a proper formal way of function initialisation will store the whole code in
 
 - **Demo of Call Stack in the Browser**
 
-    ![image](./images/getNameExeContext.jpg)
+    ![image](images/getNameExeContext.jpg)
 
     Global ExeContext: (anonymous) currently at line 8 that leads to executing the getName()
 
