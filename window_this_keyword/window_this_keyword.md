@@ -25,7 +25,7 @@ Running Empty File in JavaScript -> Global ExeContext Created
 
     **Window** is a global object that is created along with the Global ExeContext
 
-    ![Global Object Creation](./Media/Global Object Creation.jpeg)
+    ![Screenshot for the Global Object Creation](./Media/Global%20Object%20Creation.jpeg)
 
     The created Window is like an object with a lot of functions and variables created by JavaScript and put into the Global ExeContext
 
